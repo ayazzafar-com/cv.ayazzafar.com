@@ -9,7 +9,7 @@
 }
 
 body{
-    background: #262626;
+    background: #f0f0f0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,7 +25,7 @@ body{
     margin: 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+    box-shadow: 0 35px 55px rgba(0,0,0,0.2);
 }
 
 .container .left_Side{
@@ -198,7 +198,7 @@ p{
 
 .about .box .text h4{
     text-transform: uppercase;
-    color: #2a7da2;
+    color: #38b6ff;
     font-size: 16px;
 }
 
